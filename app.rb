@@ -7,6 +7,4 @@ class App < Sinatra::Base
     "<bdo dir="rtl">@user_name</bdo>"
   end
 
-  end
-
 end
