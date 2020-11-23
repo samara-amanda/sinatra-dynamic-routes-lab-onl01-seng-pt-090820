@@ -6,7 +6,7 @@ class App < Sinatra::Base
     @user_name = params[:name]
     "<bdo dir="rtl">@user_name</bdo>"
   end
-    
+
   end
 
 end
